@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.akaame.namedparametersplugin.services
 
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
+import com.github.akaame.namedparametersplugin.MyBundle
 
 class MyProjectService(project: Project) {
 
